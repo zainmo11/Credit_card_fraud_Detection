@@ -12,7 +12,7 @@ This project is organized into two main Google Colab notebooks:
 
 ### 📂 Notebooks
 
-1. **[Federated Learning Implementation](https://colab.research.google.com/drive/1whNq-11KH6dYNYRR9N0OkdwTXVhem2y_?usp=sharing)**  
+1. **[Federated Learning Implementation](https://www.kaggle.com/code/abdelrhmanzain/credit-card-fraud-federated-learning)**  
    - Built using **TensorFlow Federated (TFF)**.  
    - Simulates multiple clients training a model collaboratively without sharing their raw data.  
    - Demonstrates secure and privacy-aware model training.
