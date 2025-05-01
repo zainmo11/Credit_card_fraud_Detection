@@ -4,13 +4,13 @@ This project showcases the use of **Federated Learning** via **TensorFlow Federa
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 Credit card fraud detection requires analyzing transaction patterns to identify suspicious behavior. However, centralized machine learning models may compromise user privacy. **Federated Learning (FL)** enables decentralized model training across multiple clients, allowing raw data to remain local.
 
 This project is organized into two main Google Colab notebooks:
 
-### 📂 Notebooks
+### Notebooks
 
 1. **[Federated Learning Implementation](https://www.kaggle.com/code/abdelrhmanzain/credit-card-fraud-federated-learning)**  
    - Built using **TensorFlow Federated (TFF)**.  
@@ -23,7 +23,7 @@ This project is organized into two main Google Colab notebooks:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - Dataset: [Credit Card Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/mlg-ulb/creditcardfraud)  
 - Features are anonymized for privacy.  
@@ -31,7 +31,7 @@ This project is organized into two main Google Colab notebooks:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Python**  
 - **TensorFlow Federated (TFF)**  
@@ -41,7 +41,7 @@ This project is organized into two main Google Colab notebooks:
 
 ---
 
-## ✅ Features
+## Features
 
 - End-to-end implementation of federated learning for fraud detection.  
 - Centralized vs. federated model performance comparison.  
@@ -49,7 +49,7 @@ This project is organized into two main Google Colab notebooks:
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Integrate advanced models ANN in the federated setup.  
 - Apply class balancing techniques like SMOTE or weighted loss functions.  
