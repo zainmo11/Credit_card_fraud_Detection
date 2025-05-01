@@ -17,7 +17,7 @@ This project is organized into two main Google Colab notebooks:
    - Simulates multiple clients training a model collaboratively without sharing their raw data.  
    - Demonstrates secure and privacy-aware model training.
 
-2. **[Centralized Credit Card Fraud Detection](https://colab.research.google.com/drive/19cBVO7eMBWpJgu-Gy4aqoctldn7s4e3U?usp=sharing)**  
+2. **[Centralized Credit Card Fraud Detection](https://colab.research.google.com/drive/1whNq-11KH6dYNYRR9N0OkdwTXVhem2y_?usp=sharing)**  
    - Implements a baseline model using **scikit-learn**.  
    - Provides data preprocessing, training, and evaluation for comparison with the federated model.
 
